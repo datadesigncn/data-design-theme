@@ -128,7 +128,7 @@ h2 {
 
 h4 {
   /*font-family: "source_sans_probold", sans-serif;*/
-  font-family: "source_sans_probold", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
+  font-family: "source_sans_probold", Helvetica, Tahoma, Arial, STXihei, "华文细黑", STHeiti, "华文黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
   margin-bottom: 1em; }
 
 table {
@@ -201,7 +201,7 @@ table.question-and-answer td:nth-child(2) p {
   color: #999999; }
 table.question-and-answer td:nth-child(2) h2 {
   /*font-family: "source_sans_prosemibold", sans-serif;*/
-  font-family: "source_sans_prosemibold", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
+  font-family: "source_sans_prosemibold", Helvetica, Tahoma, Arial, STXihei, "华文细黑", STHeiti, "华文黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
   color: #41a2ba;
   font-size: 1em;
   margin: 0; }
@@ -233,8 +233,8 @@ table.yes-and-no td:nth-child(2) {
   background: #efefef; }
 
 blockquote {
-  /*font-family: "source_sans_proitalic", sans-serif; }*/
-  font-family: "source_sans_proitalic", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
+  /*font-family: "source_sans_proitalic", sans-serif;*/
+  font-family: "source_sans_proitalic", Helvetica, Tahoma, Arial, STXihei, "华文细黑", STHeiti, "华文黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
   font-size: 1em;
   line-height: 130%;
   margin: 30px;
@@ -253,8 +253,9 @@ blockquote:before {
 
 blockquote p {
   text-indent: 0;
-  /*font-family: "source_sans_proitalic", sans-serif; }*/
-  font-family: "source_sans_proitalic", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
+  /*font-family: "source_sans_proitalic", sans-serif;*/
+  font-family: "source_sans_proitalic", Helvetica, Tahoma, Arial, STXihei, "华文细黑", STHeiti, "华文黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
+}
 
 blockquote p[data-type="attribution"] {
   text-align: right;
@@ -279,7 +280,7 @@ div[data-type="note"] h1,
 div[data-type="warning"] h1 {
   color: black;
   /*font-family: "source_sans_proregular", sans-serif;*/
-  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
+  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", STHeiti, "华文黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
   font-size: 1.4em;
   text-align: center;
   margin: 4px 0;
@@ -291,7 +292,7 @@ div[data-type="warning"] h3 {
 div[data-type="note"] p,
 div[data-type="warning"] p {
   /*font-family: "source_sans_proregular", sans-serif;*/
-  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
+  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", STHeiti, "华文黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
   font-size: 1em;
   text-indent: 0in;
   margin-top: 0.5em;
@@ -309,7 +310,7 @@ div[data-type="example"] {
 
 div[data-type="example"] h5 {
   /*font-family: "source_sans_proregular", sans-serif;*/
-  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
+  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", STHeiti, "华文黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
   font-size: 0.8em;
   line-height: 120%;
   border-bottom: 1px solid #d8d8d8;
@@ -324,7 +325,7 @@ aside {
 
 aside h5 {
   /*font-family: "source_sans_proregular", sans-serif;*/
-  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
+  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", STHeiti, "华文黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
   font-size: 1em;
   line-height: 120%;
   text-align: center;
@@ -333,14 +334,14 @@ aside h5 {
 
 aside h6 {
   /*font-family: "source_sans_proregular", sans-serif;*/
-  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
+  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", STHeiti, "华文黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
   font-weight: bold;
   font-size: 0.9em;
   line-height: 120%; }
 
 aside p {
   /*font-family: "source_sans_proregular", sans-serif;*/
-  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
+  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", STHeiti, "华文黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
   font-size: 1em;
   line-height: 130%;
   text-indent: 0;
@@ -348,7 +349,7 @@ aside p {
 
 figcaption {
   /*font-family: "source_sans_proregular", sans-serif;*/
-  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
+  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", STHeiti, "华文黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
   font-size: 0.9em;
   font-style: italic;
   line-height: 120%;
@@ -366,7 +367,7 @@ figcaption {
 body {
   max-width: 100%;
   /*font-family: "source_sans_proregular", sans-serif;*/
-  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
+  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", STHeiti, "华文黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
   font-size: 18px;
   margin: 0 0 3em;
   padding-top: 0; }
@@ -429,13 +430,13 @@ p a {
 
 em {
   /*font-family: "source_sans_proitalic", sans-serif;*/
-  font-family: "source_sans_proitalic", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
+  font-family: "source_sans_proitalic", Helvetica, Tahoma, Arial, STXihei, "华文细黑", STHeiti, "华文黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
   font-style: normal; 
 }
 
 strong {
   /*font-family: "source_sans_probold", sans-serif;*/
-  font-family: "source_sans_probold", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
+  font-family: "source_sans_probold", Helvetica, Tahoma, Arial, STXihei, "华文细黑", STHeiti, "华文黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
 }
 
 
@@ -449,7 +450,7 @@ section {
 
 h3 {
   /*font-family: "source_sans_probold", sans-serif;*/
-  font-family: "source_sans_probold", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
+  font-family: "source_sans_probold", Helvetica, Tahoma, Arial, STXihei, "华文细黑", STHeiti, "华文黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
   color: #aaaaaa;
   text-transform: uppercase;
   margin-top: 2em;
@@ -460,7 +461,7 @@ h3 + p {
 
 section[data-type="titlepage"] h1 {
   /*font-family: "source_sans_prosemibold", sans-serif;*/
-  font-family: "source_sans_prosemibold", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
+  font-family: "source_sans_prosemibold", Helvetica, Tahoma, Arial, STXihei, "华文细黑", STHeiti, "华文黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
   line-height: 120%;
   padding-top: 1.5em;
   font-size: 5em;
@@ -498,7 +499,7 @@ nav[data-type="toc"] {
   nav[data-type="toc"] li {
     list-style-type: none;
     /*font-family: "source_sans_proregular", sans-serif;*/
-    font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
+    font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", STHeiti, "华文黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
     margin-top: 0;
     padding: 20px 0 0px;
     border-bottom: 1px solid #cccccc;
@@ -580,7 +581,7 @@ nav[data-type="toc"] {
         nav[data-type="toc"] li[data-type="part"] ol li ol {
           display: none;
           /*font-family: "source_sans_proregular", sans-serif;*/
-          font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
+          font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", STHeiti, "华文黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
           font-size: 1em;
           line-height: 120%;
           margin-left: 0px;
@@ -631,7 +632,7 @@ section[data-type="chapter"] header {
   margin-bottom: 4em; }
   section[data-type="chapter"] header h1 {
     /*font-family: "source_sans_probold", sans-serif;*/
-    font-family: "source_sans_probold", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
+    font-family: "source_sans_probold", Helvetica, Tahoma, Arial, STXihei, "华文细黑", STHeiti, "华文黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
     font-size: 2.4em;
     margin-top: 0;
     margin-bottom: 0;
@@ -641,7 +642,7 @@ section[data-type="chapter"] header {
     -webkit-font-smoothing: antialiased; }
   section[data-type="chapter"] header p {
     /*font-family: "source_sans_prolight", sans-serif;*/
-    font-family: "source_sans_prolight", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
+    font-family: "source_sans_prolight", Helvetica, Tahoma, Arial, STXihei, "华文细黑", STHeiti, "华文黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
     text-align: center;
     text-transform: uppercase;
     margin: 0 0.5em;
@@ -776,7 +777,7 @@ ul, ol {
 ul li, ol li,
 ul li p, ol li p {
   /*font-family: "source_sans_proregular", sans-serif;*/
-  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
+  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", STHeiti, "华文黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
   font-size: 1em;
   line-height: 150%;
   margin-top: 0.5em;
@@ -787,7 +788,7 @@ dl {
 
 dt {
   /*font-family: "source_sans_proregular", sans-serif;*/
-  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
+  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", STHeiti, "华文黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
   font-size: 0.9em;
   line-height: 120%;
   margin-top: 15px;
@@ -815,7 +816,7 @@ table {
 
 table caption {
   /*font-family: "source_sans_proregular", sans-serif;*/
-  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
+  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", STHeiti, "华文黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
   line-height: 120%;
   text-align: left;
   margin: 0 0 20px 0;
@@ -828,7 +829,7 @@ tr {
 
 th {
   /*font-family: "source_sans_proregular", sans-serif;*/
-  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
+  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", STHeiti, "华文黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
   line-height: 120%;
   text-align: left;
   margin-top: 0;
@@ -852,7 +853,7 @@ td {
 
 td, table p {
   /*font-family: "source_sans_proregular", sans-serif;*/
-  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
+  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", STHeiti, "华文黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
   line-height: 120%; }
 
 table p {
@@ -916,12 +917,12 @@ p[data-type="author"] {
   text-transform: uppercase; }
   p[data-type="author"] em {
     /*font-family: "source_sans_prolight", sans-serif;*/
-    font-family: "source_sans_prolight", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
+    font-family: "source_sans_prolight", Helvetica, Tahoma, Arial, STXihei, "华文细黑", STHeiti, "华文黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
     color: #bbbbbb; }
 
 div.navbar {
   /*font-family: "source_sans_proregular", sans-serif;*/
-  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
+  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", STHeiti, "华文黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
   background-color: #dfdfdf;
   position: fixed;
   top: 0;
@@ -940,7 +941,7 @@ div.navbar {
     z-index: 12; }
   div.navbar h1 {
     /*font-family: "source_sans_probold";*/
-    font-family: "source_sans_probold", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
+    font-family: "source_sans_probold", Helvetica, Tahoma, Arial, STXihei, "华文细黑", STHeiti, "华文黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
     text-transform: uppercase;
     font-size: 1.7em;
     float: left;
@@ -995,7 +996,7 @@ div.navbar p {
   padding: 0;
   margin: 0;
   /*font-family: "source_sans_proregular", sans-serif;*/
-  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;  
+  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", STHeiti, "华文黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;  
 }
 
 div.navbar p a {
@@ -1213,9 +1214,10 @@ section[data-type="acknowledgments"] .header {
     padding-top: 0.6em;
     padding-bottom: 0.3em;
     font-size: 1em;
-    /*font-family: "source_sans_prosemibold", sans-serif; }*/
-    font-family: "source_sans_prosemibold", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; }
-    section[data-type="acknowledgments"] .header h3 a {
+    /*font-family: "source_sans_prosemibold", sans-serif; */
+    font-family: "source_sans_prosemibold", Helvetica, Tahoma, Arial, STXihei, "华文细黑", STHeiti, "华文黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
+  }
+  section[data-type="acknowledgments"] .header h3 a {
       color: #aaaaaa;
       -webkit-transition: color, 0.2s, ease-in-out;
       -moz-transition: color, 0.2s, ease-in-out;
