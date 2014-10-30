@@ -127,7 +127,8 @@ h2 {
       position: relative; }
 
 h4 {
-  font-family: "source_sans_probold", sans-serif;
+  /*font-family: "source_sans_probold", sans-serif;*/
+  font-family: "source_sans_probold", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
   margin-bottom: 1em; }
 
 table {
@@ -199,7 +200,8 @@ table.question-and-answer td {
 table.question-and-answer td:nth-child(2) p {
   color: #999999; }
 table.question-and-answer td:nth-child(2) h2 {
-  font-family: "source_sans_prosemibold", sans-serif;
+  /*font-family: "source_sans_prosemibold", sans-serif;*/
+  font-family: "source_sans_prosemibold", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
   color: #41a2ba;
   font-size: 1em;
   margin: 0; }
@@ -231,7 +233,8 @@ table.yes-and-no td:nth-child(2) {
   background: #efefef; }
 
 blockquote {
-  font-family: "source_sans_proitalic", sans-serif;
+  /*font-family: "source_sans_proitalic", sans-serif;*/
+  font-family: "source_sans_proitalic", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
   font-size: 1em;
   line-height: 130%;
   margin: 30px;
@@ -250,7 +253,8 @@ blockquote:before {
 
 blockquote p {
   text-indent: 0;
-  font-family: "source_sans_proitalic", sans-serif; }
+  /*font-family: "source_sans_proitalic", sans-serif;*/
+  font-family: "source_sans_proitalic", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
 
 blockquote p[data-type="attribution"] {
   text-align: right;
@@ -274,7 +278,8 @@ div[data-type="warning"] {
 div[data-type="note"] h1,
 div[data-type="warning"] h1 {
   color: black;
-  font-family: "source_sans_prosemibold", sans-serif;
+  /*font-family: "source_sans_prosemibold", sans-serif;*/
+  font-family: "source_sans_prosemibold", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
   font-size: 1.4em;
   text-align: center;
   margin: 4px 0;
@@ -285,7 +290,8 @@ div[data-type="warning"] h3 {
 
 div[data-type="note"] p,
 div[data-type="warning"] p {
-  font-family: "source_sans_proregular", sans-serif;
+  /*font-family: "source_sans_proregular", sans-serif;*/
+  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
   font-size: 1em;
   text-indent: 0in;
   margin-top: 0.5em;
@@ -302,7 +308,8 @@ div[data-type="example"] {
     margin: 1em 0; }
 
 div[data-type="example"] h5 {
-  font-family: "source_sans_proregular", sans-serif;
+  /*font-family: "source_sans_proregular", sans-serif;*/
+  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
   font-size: 0.8em;
   line-height: 120%;
   border-bottom: 1px solid #d8d8d8;
@@ -316,7 +323,8 @@ aside {
   margin: 30px 0; }
 
 aside h5 {
-  font-family: "source_sans_proregular", sans-serif;
+  /*font-family: "source_sans_proregular", sans-serif;*/
+  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
   font-size: 1em;
   line-height: 120%;
   text-align: center;
@@ -324,20 +332,23 @@ aside h5 {
   padding: 0; }
 
 aside h6 {
-  font-family: "source_sans_proregular", sans-serif;
+  /*font-family: "source_sans_proregular", sans-serif;*/
+  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
   font-weight: bold;
   font-size: 0.9em;
   line-height: 120%; }
 
 aside p {
-  font-family: "source_sans_proregular", sans-serif;
+  /*font-family: "source_sans_proregular", sans-serif;*/
+  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
   font-size: 1em;
   line-height: 130%;
   text-indent: 0;
   margin-top: 6px; }
 
 figcaption {
-  font-family: "source_sans_proregular", sans-serif;
+  /*font-family: "source_sans_proregular", sans-serif;*/
+  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
   font-size: 0.9em;
   font-style: italic;
   line-height: 120%;
@@ -411,13 +422,15 @@ figure[data-type="cover"] {
   margin-left: 0.75in;
   margin-right: 0.75in;
   @bottom-right-corner {
-    font-family: "source_sans_proregular", sans-serif;
+    /*font-family: "source_sans_proregular", sans-serif;*/
+  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
     font-size: 9pt;
     text-align: left;
     margin-top: 5pt;
     margin-left: 0.5in; }
   @top-left {
-    font-family: "source_sans_proregular", sans-serif;
+    /*font-family: "source_sans_proregular", sans-serif;*/
+  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
     font-size: 8pt;
     text-align: left;
     margin-top: 6pt; }
@@ -464,7 +477,8 @@ h1 + p, h2 + p, h3 + P {
   /* first paragraph following a heading has no indent */ }
 
 p, dd {
-  font-family: "source_sans_proregular", sans-serif;
+  /*font-family: "source_sans_proregular", sans-serif;*/
+  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
   text-indent: 0in;
   font-size: 11.5pt;
   line-height: 15pt;
@@ -472,7 +486,8 @@ p, dd {
   text-align: justify; }
 
 h3 {
-  font-family: "source_sans_probold", sans-serif;
+  /*font-family: "source_sans_proregular", sans-serif;*/
+  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
   font-size: 14pt;
   color: #aaaaaa;
   text-transform: uppercase;
@@ -484,7 +499,8 @@ body {
   -ah-kerning-mode: pair;
   -ah-hyphenate-hyphenated-word: false;
   hyphens: auto;
-  font-family: "source_sans_proregular", sans-serif; }
+  /*font-family: "source_sans_proregular", sans-serif;*/
+  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
 
 /* general inlines */
 /* PDF bookmarks */
@@ -513,7 +529,8 @@ section[data-type="titlepage"] {
     color: white;
     text-decoration: underline; }
   section[data-type="titlepage"] h1 {
-    font-family: "source_sans_probold", sans-serif;
+    /*font-family: "source_sans_probold", sans-serif;*/
+    font-family: "source_sans_probold", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
     line-height: 116%;
     font-size: 80pt;
     margin-bottom: 0;
@@ -550,7 +567,8 @@ section[data-type="chapter"] {
     border-bottom: 18px solid #eeeeee;
     margin-bottom: 4em; }
     section[data-type="chapter"] header h1 {
-      font-family: "source_sans_probold", sans-serif;
+      /*font-family: "source_sans_probold", sans-serif;*/
+      font-family: "source_sans_probold", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
       font-size: 32pt;
       margin-top: 0;
       margin-bottom: 0;
@@ -559,7 +577,8 @@ section[data-type="chapter"] {
       color: #444444;
       -webkit-font-smoothing: antialiased; }
     section[data-type="chapter"] header p {
-      font-family: "source_sans_prolight", sans-serif;
+      /*font-family: "source_sans_prolight", sans-serif;*/
+      font-family: "source_sans_prolight", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
       text-align: center;
       text-transform: uppercase;
       margin: 0pt 16pt;
@@ -580,7 +599,8 @@ nav[data-type="toc"] {
   hyphens: none;
   counter-reset: ChapterNumberTOC PartNumberTOC AppendixNumberTOC; }
   nav[data-type="toc"] > h1 {
-    font-family: "source_sans_probold", sans-serif;
+    /*font-family: "source_sans_probold", sans-serif;*/
+    font-family: "source_sans_probold", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
     line-height: 22pt;
     margin-bottom: 0.5in;
     margin-top: 0.5in;
@@ -606,9 +626,12 @@ nav[data-type="toc"] {
     margin-top: 20pt; }
     nav[data-type="toc"] li[data-type="part"] > a {
       border-bottom: none;
-      font-family: "source_sans_probold", sans-serif; }
+      /*font-family: "source_sans_probold", sans-serif; */
+      font-family: "source_sans_probold", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
+    }
   nav[data-type="toc"] li[data-type="chapter"], nav[data-type="toc"] li[data-type="appendix"], nav[data-type="toc"] li[data-type="glossary"], nav[data-type="toc"] li[data-type="index"], nav[data-type="toc"] li[data-type="preface"], nav[data-type="toc"] li[data-type="foreword"], nav[data-type="toc"] li[data-type="introduction"], nav[data-type="toc"] li[data-type="appendix"], nav[data-type="toc"] li[data-type="glossary"], nav[data-type="toc"] li[data-type="acknowledgments"] {
-    font-family: "source_sans_proregular", sans-serif;
+    /*font-family: "source_sans_proregular", sans-serif;*/
+    font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
     font-size: 9.5pt;
     margin-top: 14.4pt;
     display: list-item;
@@ -619,7 +642,9 @@ nav[data-type="toc"] {
     content: "CHAPTER " counter(ChapterNumberTOC,decimal) ": ";
     counter-increment: ChapterNumberTOC;
     border-bottom: 1px solid #d1d2d4;
-    font-family: "source_sans_proregular", sans-serif; }
+    /*font-family: "source_sans_proregular", sans-serif; */
+    font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
+  }
 
 /* appendixes */
 nav[data-type="toc"] li[data-type="appendix"] {
@@ -634,7 +659,8 @@ nav[data-type="toc"] li[data-type="appendix"] {
 /* preface, chapter, and appendix headings */
 /* shared styles for all chapter-level headings */
 section[data-type="preface"] > h1, section[data-type="foreword"] > h1, section[data-type="appendix"] > h1, section[data-type="introduction"] > h1, section[data-type="copyright-page"] > h1 {
-  font-family: "source_sans_probold", sans-serif;
+  /*font-family: "source_sans_probold", sans-serif;*/
+  font-family: "source_sans_probold", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
   line-height: 22pt;
   margin-bottom: 0.25in;
   margin-top: 0.5in;
@@ -652,7 +678,8 @@ section[data-type="appendix"] > h1 {
   counter-increment: AppendixNumber; }
 section[data-type="chapter"] > h1:after, section[data-type="appendix"] > h1:after {
   font-size: 65pt;
-  font-family: "source_sans_prolight", sans-serif;
+  /*font-family: "source_sans_prolight", sans-serif;*/
+  font-family: "source_sans_prolight", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
   letter-spacing: -3pt;
   display: block;
   position: relative;
@@ -754,7 +781,8 @@ section[data-type="titlepage"] {
   height: 9.1875in; }
   div[data-type="part"] header h1,
   section[data-type="titlepage"] header h1 {
-    font-family: "source_sans_probold", sans-serif;
+    /*font-family: "source_sans_probold", sans-serif;*/
+    font-family: "source_sans_probold", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
     font-size: 30pt;
     line-height: 22pt;
     text-align: center;
@@ -786,7 +814,9 @@ section[data-type="titlepage"] {
   @bottom-left-corner {
     color: #d1d2d4;
     content: counter(page);
-    font-family: "source_sans_proregular", sans-serif; }
+    /*font-family: "source_sans_proregular", sans-serif; */
+    font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
+  }
   @top-left {
     content: "CHAPTER " counter(ChapterNumber) ": " string(ChapterTitle); } }
 /* page number resets to 1 on the first chapter */
@@ -823,7 +853,8 @@ ul, ol {
   margin: 7pt; }
 
 ul li, ol li {
-  font-family: "source_sans_proregular", sans-serif;
+  /*font-family: "source_sans_proregular", sans-serif;*/
+  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
   font-size: 11.5pt;
   line-height: 120%;
   margin-bottom: 7pt;
@@ -835,7 +866,8 @@ dl {
 
 dt {
   /* definition list terms */
-  font-family: "source_sans_prosemibold", sans-serif;
+  /*font-family: "source_sans_prosemibold", sans-serif;*/
+  font-family: "source_sans_prosemibold", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
   font-size: 9.5pt;
   line-height: 14pt;
   margin-top: 7pt; }
@@ -861,7 +893,8 @@ table caption {
   line-height: 10pt;
   hyphens: none; }
   table caption:before {
-    font-family: "source_sans_probold", sans-serif;
+    /*font-family: "source_sans_probold", sans-serif;*/
+    font-family: "source_sans_probold", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
     font-style: normal;
     font-size: 8.5pt;
     counter-increment: TableNumber;
@@ -871,7 +904,8 @@ table caption {
 
 th {
   /* table heading rows */
-  font-family: "source_sans_proregular", sans-serif;
+  /*font-family: "source_sans_proregular", sans-serif;*/
+  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
   font-weight: bold;
   font-size: 9pt;
   text-align: left;
@@ -882,7 +916,8 @@ th {
 td {
   padding: 4.5pt 0.0625in 4.5pt 0.0625in;
   /* table body text */
-  font-family: "source_sans_proregular", sans-serif;
+  /*font-family: "source_sans_proregular", sans-serif;*/
+  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
   font-size: 9pt;
   line-height: 10pt; }
 
@@ -899,7 +934,8 @@ tr {
 
 table p {
   /* table body text */
-  font-family: "source_sans_proregular", sans-serif;
+  /*font-family: "source_sans_proregular", sans-serif;*/
+  font-family: "source_sans_proregular", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
   font-size: 9pt;
   line-height: 10pt;
   /* table body text */
@@ -965,7 +1001,8 @@ div[data-type="note"] p, div[data-type="warning"] p {
   text-indent: 0; }
 div[data-type="note"] h1, div[data-type="warning"] h1 {
   /* admonition titles */
-  font-family: "source_sans_probold", sans-serif;
+  /*font-family: "source_sans_probold", sans-serif;*/
+  font-family: "source_sans_probold", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
   text-transform: uppercase; }
 
 div[data-type="example"] h5 {
@@ -977,7 +1014,8 @@ div[data-type="example"] h5 {
   line-height: 10pt;
   hyphens: none; }
   div[data-type="example"] h5:before {
-    font-family: '"source_sans_probold"', sans-serif;
+    /*font-family: "source_sans_probold", sans-serif;*/
+    font-family: "source_sans_probold", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; 
     font-style: normal;
     font-size: 8.5pt;
     counter-increment: ExampleNumber;
@@ -1020,7 +1058,9 @@ section[data-type="acknowledgments"] {
       padding-top: 0.6em;
       padding-bottom: 0.3em;
       font-size: 1em;
-      font-family: "source_sans_prosemibold", sans-serif; }
+      /*font-family: "source_sans_prosemibold", sans-serif;*/
+      font-family: "source_sans_prosemibold", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;  
+    }
       section[data-type="acknowledgments"] .header h3 a {
         color: #aaaaaa; }
   section[data-type="acknowledgments"] .contributor {
@@ -1084,7 +1124,8 @@ p[data-type="author"] {
   margin-bottom: 3em;
   text-transform: uppercase; }
   p[data-type="author"] em {
-    font-family: "source_sans_prolight", sans-serif;
+    /*font-family: "source_sans_prolight", sans-serif;*/
+    font-family: "source_sans_prolight", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;  
     color: #bbbbbb;
     font-style: normal; }
 
