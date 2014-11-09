@@ -673,7 +673,7 @@ nav[data-type="toc"] {
     nav[data-type="toc"] li[data-type="part"] > a {
       border-bottom: none;
       /*font-family: "source_sans_probold", sans-serif;*/
-      font-family: "source_sans_proregular", "source_han_sans_cn_bold", sans-serif;
+      font-family: "source_sans_probold", "source_han_sans_cn_bold", sans-serif;
     }
   nav[data-type="toc"] li[data-type="chapter"], nav[data-type="toc"] li[data-type="appendix"], nav[data-type="toc"] li[data-type="glossary"], nav[data-type="toc"] li[data-type="index"], nav[data-type="toc"] li[data-type="preface"], nav[data-type="toc"] li[data-type="foreword"], nav[data-type="toc"] li[data-type="introduction"], nav[data-type="toc"] li[data-type="appendix"], nav[data-type="toc"] li[data-type="glossary"], nav[data-type="toc"] li[data-type="acknowledgments"] {
     /*font-family: "source_sans_proregular", sans-serif;*/
@@ -706,7 +706,7 @@ nav[data-type="toc"] li[data-type="appendix"] {
 /* shared styles for all chapter-level headings */
 section[data-type="preface"] > h1, section[data-type="foreword"] > h1, section[data-type="appendix"] > h1, section[data-type="introduction"] > h1, section[data-type="copyright-page"] > h1 {
   /*font-family: "source_sans_probold", sans-serif;*/
-  font-family: "source_sans_proregular", "source_han_sans_cn_bold", sans-serif;
+  font-family: "source_sans_probold", "source_han_sans_cn_bold", sans-serif;
   line-height: 22pt;
   margin-bottom: 0.25in;
   margin-top: 0.5in;
@@ -725,7 +725,7 @@ section[data-type="appendix"] > h1 {
 section[data-type="chapter"] > h1:after, section[data-type="appendix"] > h1:after {
   font-size: 65pt;
   /*font-family: "source_sans_prolight", sans-serif;*/
-  font-family: "source_sans_proregular", "source_han_sans_cn_light", sans-serif;
+  font-family: "source_sans_prolight", "source_han_sans_cn_light", sans-serif;
   letter-spacing: -3pt;
   display: block;
   position: relative;
@@ -828,7 +828,7 @@ section[data-type="titlepage"] {
   div[data-type="part"] header h1,
   section[data-type="titlepage"] header h1 {
     /*font-family: "source_sans_probold", sans-serif;*/
-    font-family: "source_sans_proregular", "source_han_sans_cn_bold", sans-serif;
+    font-family: "source_sans_probold", "source_han_sans_cn_bold", sans-serif;
     font-size: 30pt;
     line-height: 22pt;
     text-align: center;
@@ -913,7 +913,7 @@ dl {
 dt {
   /* definition list terms */
   /*font-family: "source_sans_prosemibold", sans-serif;*/
-  font-family: "source_sans_proregular", "source_han_sans_cn_medium", sans-serif;
+  font-family: "source_sans_prosemibold", "source_han_sans_cn_medium", sans-serif;
   font-size: 9.5pt;
   line-height: 14pt;
   margin-top: 7pt; }
@@ -940,7 +940,7 @@ table caption {
   hyphens: none; }
   table caption:before {
     /*font-family: "source_sans_probold", sans-serif;*/
-    font-family: "source_sans_proregular", "source_han_sans_cn_bold", sans-serif;
+    font-family: "source_sans_probold", "source_han_sans_cn_bold", sans-serif;
     font-style: normal;
     font-size: 8.5pt;
     counter-increment: TableNumber;
@@ -1048,7 +1048,7 @@ div[data-type="note"] p, div[data-type="warning"] p {
 div[data-type="note"] h1, div[data-type="warning"] h1 {
   /* admonition titles */
   /*font-family: "source_sans_probold", sans-serif;*/
-  font-family: "source_sans_proregular", "source_han_sans_cn_bold", sans-serif;
+  font-family: "source_sans_probold", "source_han_sans_cn_bold", sans-serif;
   text-transform: uppercase; }
 
 div[data-type="example"] h5 {
@@ -1061,7 +1061,7 @@ div[data-type="example"] h5 {
   hyphens: none; }
   div[data-type="example"] h5:before {
     /*font-family: "source_sans_probold", sans-serif;*/
-    font-family: "source_sans_proregular", "source_han_sans_cn_bold", sans-serif;
+    font-family: "source_sans_probold", "source_han_sans_cn_bold", sans-serif;
     font-style: normal;
     font-size: 8.5pt;
     counter-increment: ExampleNumber;
@@ -1105,7 +1105,7 @@ section[data-type="acknowledgments"] {
       padding-bottom: 0.3em;
       font-size: 1em;
       /*font-family: "source_sans_prosemibold", sans-serif;*/
-      font-family: "source_sans_proregular", "source_han_sans_cn_medium", sans-serif; 
+      font-family: "source_sans_prosemibold", "source_han_sans_cn_medium", sans-serif; 
     }
       section[data-type="acknowledgments"] .header h3 a {
         color: #aaaaaa; }
@@ -1171,7 +1171,7 @@ p[data-type="author"] {
   text-transform: uppercase; }
   p[data-type="author"] em {
     /*font-family: "source_sans_prolight", sans-serif;*/
-    font-family: "source_sans_proregular", "source_han_sans_cn_light", sans-serif; 
+    font-family: "source_sans_prolight", "source_han_sans_cn_light", sans-serif; 
     color: #bbbbbb;
     font-style: normal; }
 
