@@ -386,43 +386,43 @@ figcaption {
   @font-face {
   font-family: "source_han_sans_cn_bold";
   src: url("../shared/fonts/SourceHanSansCN-Bold.otf");
-  src: url("../shared/fonts/sourcesanspro-italic-webfont.eot?#iefix") format("opentype");
+  src: url("../shared/fonts/sourcesanspro-italic-webfont.otf?#iefix") format("opentype");
   font-weight: normal;
   font-style: normal; }
   @font-face {
   font-family: "source_han_sans_cn_extralight";
   src: url("../shared/fonts/SourceHanSansCN-ExtraLight.otf");
-  src: url("../shared/fonts/sourcesanspro-italic-webfont.eot?#iefix") format("opentype");
+  src: url("../shared/fonts/sourcesanspro-italic-webfont.otf?#iefix") format("opentype");
   font-weight: normal;
   font-style: normal; }
   @font-face {
   font-family: "source_han_sans_cn_heavy";
   src: url("../shared/fonts/SourceHanSansCN-Heavy.otf");
-  src: url("../shared/fonts/sourcesanspro-italic-webfont.eot?#iefix") format("opentype");
+  src: url("../shared/fonts/sourcesanspro-italic-webfont.otf?#iefix") format("opentype");
   font-weight: normal;
   font-style: normal; }
   @font-face {
   font-family: "source_han_sans_cn_light";
   src: url("../shared/fonts/SourceHanSansCN-Light.otf");
-  src: url("../shared/fonts/sourcesanspro-italic-webfont.eot?#iefix") format("opentype");
+  src: url("../shared/fonts/sourcesanspro-italic-webfont.otf?#iefix") format("opentype");
   font-weight: normal;
   font-style: normal; }
   @font-face {
   font-family: "source_han_sans_cn_medium";
   src: url("../shared/fonts/SourceHanSansCN-Medium.otf");
-  src: url("../shared/fonts/sourcesanspro-italic-webfont.eot?#iefix") format("opentype");
+  src: url("../shared/fonts/sourcesanspro-italic-webfont.otf?#iefix") format("opentype");
   font-weight: normal;
   font-style: normal; }
   @font-face {
   font-family: "source_han_sans_cn_normal";
   src: url("../shared/fonts/SourceHanSansCN-Normal.otf");
-  src: url("../shared/fonts/sourcesanspro-italic-webfont.eot?#iefix") format("opentype");
+  src: url("../shared/fonts/sourcesanspro-italic-webfont.otf?#iefix") format("opentype");
   font-weight: normal;
   font-style: normal; }
   @font-face {
   font-family: "source_han_sans_cn_regular";
   src: url("../shared/fonts/SourceHanSansCN-Regular.otf");
-  src: url("../shared/fonts/sourcesanspro-italic-webfont.eot?#iefix") format("opentype");
+  src: url("../shared/fonts/sourcesanspro-italic-webfont.otf?#iefix") format("opentype");
   font-weight: normal;
   font-style: normal; }
 
