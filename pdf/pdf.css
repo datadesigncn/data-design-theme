@@ -292,7 +292,7 @@ div[data-type="warning"] h3 {
 div[data-type="note"] p,
 div[data-type="warning"] p {
   /*font-family: "source_sans_proregular", sans-serif;*/
-  font-family: "source_sans_proregular", "source_han_sans_cn_regular", sans-serif;
+  font-family: "source_sans_proregular", "source_han_sans_cn_normal", sans-serif;
   font-size: 1em;
   text-indent: 0in;
   margin-top: 0.5em;
@@ -310,7 +310,7 @@ div[data-type="example"] {
 
 div[data-type="example"] h5 {
   /*font-family: "source_sans_proregular", sans-serif;*/
-  font-family: "source_sans_proregular", "source_han_sans_cn_regular", sans-serif;
+  font-family: "source_sans_proregular", "source_han_sans_cn_normal", sans-serif;
   font-size: 0.8em;
   line-height: 120%;
   border-bottom: 1px solid #d8d8d8;
@@ -325,7 +325,7 @@ aside {
 
 aside h5 {
   /*font-family: "source_sans_proregular", sans-serif;*/
-  font-family: "source_sans_proregular", "source_han_sans_cn_regular", sans-serif;
+  font-family: "source_sans_proregular", "source_han_sans_cn_normal", sans-serif;
   font-size: 1em;
   line-height: 120%;
   text-align: center;
@@ -334,14 +334,14 @@ aside h5 {
 
 aside h6 {
   /*font-family: "source_sans_proregular", sans-serif;*/
-  font-family: "source_sans_proregular", "source_han_sans_cn_regular", sans-serif;
+  font-family: "source_sans_proregular", "source_han_sans_cn_normal", sans-serif;
   font-weight: bold;
   font-size: 0.9em;
   line-height: 120%; }
 
 aside p {
   /*font-family: "source_sans_proregular", sans-serif;*/
-  font-family: "source_sans_proregular", "source_han_sans_cn_regular", sans-serif;
+  font-family: "source_sans_proregular", "source_han_sans_cn_normal", sans-serif;
   font-size: 1em;
   line-height: 130%;
   text-indent: 0;
@@ -349,7 +349,7 @@ aside p {
 
 figcaption {
   /*font-family: "source_sans_proregular", sans-serif;*/
-  font-family: "source_sans_proregular", "source_han_sans_cn_regular", sans-serif;
+  font-family: "source_sans_proregular", "source_han_sans_cn_normal", sans-serif;
   font-size: 0.9em;
   font-style: italic;
   line-height: 120%;
@@ -468,14 +468,14 @@ figure[data-type="cover"] {
   margin-right: 0.75in;
   @bottom-right-corner {
     /*font-family: "source_sans_proregular", sans-serif;*/
-  font-family: "source_sans_proregular", "source_han_sans_cn_regular", sans-serif;
+  font-family: "source_sans_proregular", "source_han_sans_cn_normal", sans-serif;
     font-size: 9pt;
     text-align: left;
     margin-top: 5pt;
     margin-left: 0.5in; }
   @top-left {
     /*font-family: "source_sans_proregular", sans-serif;*/
-  font-family: "source_sans_proregular", "source_han_sans_cn_regular", sans-serif;
+  font-family: "source_sans_proregular", "source_han_sans_cn_normal", sans-serif;
     font-size: 8pt;
     text-align: left;
     margin-top: 6pt; }
@@ -523,7 +523,7 @@ h1 + p, h2 + p, h3 + P {
 
 p, dd {
   /*font-family: "source_sans_proregular", sans-serif;*/
-  font-family: "source_sans_proregular", "source_han_sans_cn_regular", sans-serif;
+  font-family: "source_sans_proregular", "source_han_sans_cn_normal", sans-serif;
   text-indent: 0in;
   font-size: 11.5pt;
   line-height: 15pt;
@@ -532,7 +532,7 @@ p, dd {
 
 h3 {
   /*font-family: "source_sans_proregular", sans-serif;*/
-  font-family: "source_sans_proregular", "source_han_sans_cn_regular", sans-serif;
+  font-family: "source_sans_proregular", "source_han_sans_cn_normal", sans-serif;
   font-size: 14pt;
   color: #aaaaaa;
   text-transform: uppercase;
@@ -545,7 +545,7 @@ body {
   -ah-hyphenate-hyphenated-word: false;
   hyphens: auto;
   /*font-family: "source_sans_proregular", sans-serif;*/
-  font-family: "source_sans_proregular", "source_han_sans_cn_regular", sans-serif;
+  font-family: "source_sans_proregular", "source_han_sans_cn_normal", sans-serif;
 }
 
 /* general inlines */
@@ -677,7 +677,7 @@ nav[data-type="toc"] {
     }
   nav[data-type="toc"] li[data-type="chapter"], nav[data-type="toc"] li[data-type="appendix"], nav[data-type="toc"] li[data-type="glossary"], nav[data-type="toc"] li[data-type="index"], nav[data-type="toc"] li[data-type="preface"], nav[data-type="toc"] li[data-type="foreword"], nav[data-type="toc"] li[data-type="introduction"], nav[data-type="toc"] li[data-type="appendix"], nav[data-type="toc"] li[data-type="glossary"], nav[data-type="toc"] li[data-type="acknowledgments"] {
     /*font-family: "source_sans_proregular", sans-serif;*/
-    font-family: "source_sans_proregular", "source_han_sans_cn_regular", sans-serif;
+    font-family: "source_sans_proregular", "source_han_sans_cn_normal", sans-serif;
     font-size: 9.5pt;
     margin-top: 14.4pt;
     display: list-item;
@@ -689,7 +689,7 @@ nav[data-type="toc"] {
     counter-increment: ChapterNumberTOC;
     border-bottom: 1px solid #d1d2d4;
     /*font-family: "source_sans_proregular", sans-serif;*/
-    font-family: "source_sans_proregular", "source_han_sans_cn_regular", sans-serif;
+    font-family: "source_sans_proregular", "source_han_sans_cn_normal", sans-serif;
   }
 
 /* appendixes */
@@ -861,7 +861,7 @@ section[data-type="titlepage"] {
     color: #d1d2d4;
     content: counter(page);
     /*font-family: "source_sans_proregular", sans-serif;*/
-    font-family: "source_sans_proregular", "source_han_sans_cn_regular", sans-serif;
+    font-family: "source_sans_proregular", "source_han_sans_cn_normal", sans-serif;
   }
   @top-left {
     content: "CHAPTER " counter(ChapterNumber) ": " string(ChapterTitle); } }
@@ -900,7 +900,7 @@ ul, ol {
 
 ul li, ol li {
   /*font-family: "source_sans_proregular", sans-serif;*/
-  font-family: "source_sans_proregular", "source_han_sans_cn_regular", sans-serif;
+  font-family: "source_sans_proregular", "source_han_sans_cn_normal", sans-serif;
   font-size: 11.5pt;
   line-height: 120%;
   margin-bottom: 7pt;
@@ -951,7 +951,7 @@ table caption {
 th {
   /* table heading rows */
   /*font-family: "source_sans_proregular", sans-serif;*/
-  font-family: "source_sans_proregular", "source_han_sans_cn_regular", sans-serif;
+  font-family: "source_sans_proregular", "source_han_sans_cn_normal", sans-serif;
   font-weight: bold;
   font-size: 9pt;
   text-align: left;
@@ -963,7 +963,7 @@ td {
   padding: 4.5pt 0.0625in 4.5pt 0.0625in;
   /* table body text */
   /*font-family: "source_sans_proregular", sans-serif;*/
-  font-family: "source_sans_proregular", "source_han_sans_cn_regular", sans-serif;
+  font-family: "source_sans_proregular", "source_han_sans_cn_normal", sans-serif;
   font-size: 9pt;
   line-height: 10pt; }
 
@@ -981,7 +981,7 @@ tr {
 table p {
   /* table body text */
   /*font-family: "source_sans_proregular", sans-serif;*/
-  font-family: "source_sans_proregular", "source_han_sans_cn_regular", sans-serif;
+  font-family: "source_sans_proregular", "source_han_sans_cn_normal", sans-serif;
   font-size: 9pt;
   line-height: 10pt;
   /* table body text */
